@@ -139,7 +139,7 @@ const handleQuizNeg = () => {
               {/* <img className='topic-img-larger' src = {Headline} alt = "head"/> */}
               <img className="topic-img-middle-z" src={Head_bg} alt="head" />
               <div  style={{marginTop:'14px'}}className="main-des-5">
-              <p>   Eligible Americans across the country are benefiting from their monthly allowance card, which helps cover vital costs like groceries, rent, and utility bills.</p> <br/>
+              <p>  Eligible Americans are taking advantage of this opportunity to secure their Food Allowance Card, which covers the cost of groceries, rent, bills, and other monthly expenses.</p> <br/>
             <p> Your allowance card works at popular spots like Walmart, Target, and CVS! Take a moment to answer the questions below and check your eligibility today!</p> 
               {/* Americans over 65 years old may be eligible to claim the 2024 Grocery Allowance Card Americans may use the funds to fully cover their Groceries, Medicines, etc. */}
               {/* <b>How it works:</b> Complete this survey to check your eligibility. */}
